@@ -1,0 +1,45 @@
+#h{
+    font-style:italic;
+}
+
+#bl{
+   background-color: lightblue; 
+   width: 350px;
+   height: 350px;
+   text-align: center;
+}
+
+#login_button{
+    width: 200px;
+    border-radius: 15px;
+    margin-top: 50px;
+    background-color:blue;
+}
+
+#i{
+    margin-top: 30px;
+    width: 100px;
+    border-radius: 70px;
+}
+
+body{
+    background-color: darkturquoise;
+}
+
+#user_name{
+margin-top: 20px;
+width: 200px;
+}
+
+#logout{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+}
+
+#room_name{
+
+        margin-bottom: 100px;
+        width: 200px;
+
+}
